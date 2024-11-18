@@ -1,0 +1,8 @@
+#ignorar archivo 
+.DS_Store
+localconfig/
+
+
+#ignorar todos los archivos con extensiones 
+*.tmp
+*.env
