@@ -17,3 +17,16 @@
 - Hockey sobre hielo
 - Atletismo
 - Golf
+
+### Añado lsita de frutas Tropicales
+
+- Papaya
+- Coco
+- Guayaba
+- Maracuyá (Fruta de la Pasión)
+- Lichi
+- Mangostán
+- Rambután
+- Carambola (Fruta estrella)
+- Pitaya (Fruta del dragón)
+- Chirimoya
